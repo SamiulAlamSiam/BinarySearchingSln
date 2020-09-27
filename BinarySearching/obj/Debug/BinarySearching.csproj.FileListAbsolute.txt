@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\bin\Debug\BinarySearching.exe.config
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\bin\Debug\BinarySearching.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\bin\Debug\BinarySearching.pdb
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\obj\Debug\BinarySearching.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\obj\Debug\BinarySearching.Form1.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\obj\Debug\BinarySearching.Properties.Resources.resources
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\obj\Debug\BinarySearching.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\obj\Debug\BinarySearching.exe
+C:\Users\User\Desktop\PROGRAMMING LANGUAGE\Csharp\Project\BinarySearchingSln\BinarySearching\obj\Debug\BinarySearching.pdb
